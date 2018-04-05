@@ -1,6 +1,8 @@
+#Music-recommender project at the University of Applied Sciences Salzburg 
+
 ## Intelligent Systems 2
 
-Homeworks for Intelligent Systems 2 Course.
+Homeworks for Intelligent Systems 2 Course at the master course.
 
 
 ### Required Libraries
